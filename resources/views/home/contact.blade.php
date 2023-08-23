@@ -26,42 +26,43 @@
 
     </div>
 </section>
-<!--End Map Section-->
-
-<!--Info Section-->
 <section class="info-section">
     <div class="auto-container">
         <div class="row clearfix">
             <!--Info Block-->
             <div class="info-block col-md-4 col-sm-6 col-xs-12">
-                <h2>NOS BUREAUX</h2>
+                <h2>ADRESSE</h2>
                 <div class="inner-box">
                     <div class="icon-box"><span class="flaticon-map"></span></div>
-                    <div class="text">SAER Protect, Hamdallaye ACI 2000, Rue 240, Porte 101, Bamako, Mali
+                    <div class="text"> Hamdallaye ACI 2000 Bamako, Mali
                     </div>
                 </div>
-
-                <!--Info Block-->
-                <div class="info-block col-md-4 col-sm-6 col-xs-12">
-                    <h2>MAIL US AT</h2>
-                    <div class="inner-box">
-                        <div class="icon-box"><span class="flaticon-envelope"></span></div>
-                        <div class="text">contact@saerprotect.com</div>
-                    </div>
-                </div>
-
-                <!--Info Block-->
-                <div class="info-block col-md-4 col-sm-6 col-xs-12">
-                    <h2>APPELEZ-NOUS AU</h2>
-                    <div class="inner-box">
-                        <div class="icon-box"><span class="flaticon-envelope"></span></div>
-                        <div class="text">+223 20 22 52 68 <br>
-                            +223 </div>
-                    </div>
-                </div>
-
             </div>
+
+            <!--Info Block-->
+            <div class="info-block col-md-4 col-sm-6 col-xs-12">
+                <h2>
+                    ECRIRE A
+                </h2>
+                <div class="inner-box">
+                    <div class="icon-box"><span class="flaticon-envelope"></span></div>
+                    <div class="text">contact@saerprotect.com </div>
+                </div>
+            </div>
+
+            <!--Info Block-->
+            <div class="info-block col-md-4 col-sm-6 col-xs-12">
+                <h2>
+                    APPELER
+                </h2>
+                <div class="inner-box">
+                    <div class="icon-box"><span class="flaticon-envelope"></span></div>
+                    <div class="text">+223 20 22 52 68 </div>
+                </div>
+            </div>
+
         </div>
+    </div>
 </section>
 <!--End Info Section-->
 
@@ -73,17 +74,27 @@
         <div class="contact-form">
 
             <div class="group-title">
-                <h2>Envoyez-nous un message</h2>
+                <h2>
+                    NOUS CONTACTER
+                </h2>
             </div>
 
             <!--Comment Form-->
-            <form method="post" action="sendemail.php" id="contact-form">
+            <form method="post" action="{{ route('home.message') }}">
+                @csrf
                 <div class="row clearfix">
 
                     <div class="form-group col-md-6 col-sm-12 col-xs-12">
                         <div class="group-inner">
+                            <label class="icon-label" for="field-one"><span class="fa flaticon-"></span></label>
+                            <input id="field-one" type="text" name="titre" placeholder="Objet" required>
+                        </div>
+                    </div>
+
+                    <div class="form-group col-md-6 col-sm-12 col-xs-12">
+                        <div class="group-inner">
                             <label class="icon-label" for="field-one"><span class="fa flaticon-social"></span></label>
-                            <input id="field-one" type="text" name="username" placeholder="Nom" required>
+                            <input id="field-one" type="text" name="username" placeholder="Nom Complet" required>
                         </div>
                     </div>
 
@@ -91,18 +102,25 @@
                         <div class="group-inner">
                             <label class="icon-label" for="field-two"><span
                                     class="fa flaticon-envelope-2"></span></label>
-                            <input id="field-two" type="email" name="email" placeholder="Email" required>
+                            <input id="field-two" type="email" name="email" placeholder="Email">
+                        </div>
+                    </div>
+
+                    <div class="form-group col-md-6 col-sm-12 col-xs-12">
+                        <div class="group-inner">
+                            <label class="icon-label" for="field-two"><span class="fa flaticon-phone"></span></label>
+                            <input id="field-two" type="text" name="telephone" placeholder="Téléphone" required>
                         </div>
                     </div>
 
                     <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                        <textarea class="darma" name="message" placeholder="Message"></textarea>
+                        <textarea class="darma" name="message" placeholder="Message" required></textarea>
                     </div>
-
                     <div class="form-group col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                        <button class="theme-btn btn-style-one" type="submit" name="submit-form">Envoyer</button>
+                        <button class="theme-btn btn-style-one" type="submit" name="submit-form">
+                            ENVOYER
+                        </button>
                     </div>
-
                 </div>
             </form>
         </div>
@@ -110,5 +128,6 @@
 
     </div>
 </div>
-<!--End Contact Form-->
+
+
 @endsection

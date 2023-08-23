@@ -117,7 +117,8 @@
 
         <!--Inquiry Form-->
         <div class="inquiry-form">
-            <form method="post">
+            <form method="post" action="{{ route('home.message') }}">
+                @csrf
                 <div class="row clearfix">
 
                     <!--Form Group-->
@@ -131,7 +132,7 @@
                     <div class="form-group col-md-4 col-sm-6 col-xs-12">
                         <div class="group-inner">
                             <label class="icon-label" for="field-two"><span class="flaticon-business-1"></span></label>
-                            <input id="field-two" type="email" name="email" value="" placeholder="Email *">
+                            <input id="field-two" type="email" name="email" value="" placeholder="Email ">
                         </div>
                     </div>
                     <!--Form Group-->
@@ -139,13 +140,13 @@
                         <div class="group-inner">
                             <label class="icon-label" for="field-three"><span
                                     class="flaticon-smartphone"></span></label>
-                            <input id="field-three" type="text" name="phone" placeholder="Phone">
+                            <input id="field-three" type="text" name="telephone" placeholder="Phone *" required>
                         </div>
                     </div>
                     <!--Form Group-->
                     <div class="form-group col-md-4 col-sm-6 col-xs-12">
                         <div class="group-inner">
-                            <select>
+                            <select name="titre" required>
                                 <option value="Gardiennage">Gardiennage</option>
                                 <option value="Sécurité Rapprochée">Sécurité Rapprochée</option>
                                 <option value="Sécurité renforcée">Sécurité Renforcée</option>
@@ -159,7 +160,7 @@
                         <div class="group-inner">
                             <label class="icon-label" for="field-four"><span
                                     class="flaticon-speech-bubble-1"></span></label>
-                            <textarea id="field-four" name="message" placeholder="Commentaires"></textarea>
+                            <textarea id="field-four" name="message" placeholder="Message *"></textarea>
                         </div>
                     </div>
                     <!--Form Group-->

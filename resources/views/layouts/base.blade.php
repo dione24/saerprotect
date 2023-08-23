@@ -10,7 +10,7 @@
     <link href="/css/style.css" rel="stylesheet">
 
     <!--Favicon-->
-    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
     <link rel="icon" href="/images/favicon.ico" type="image/x-icon">
     <!-- Responsive -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -24,7 +24,7 @@
     <div class="page-wrapper">
 
         <!-- Preloader -->
-        <div class="preloader"></div>
+        {{-- <div class="preloader"></div> --}}
 
         <!-- Main Header-->
         <header class="main-header">
@@ -253,15 +253,24 @@
                                 <div class="footer-widget contact-widget">
                                     <h2>CONTACTEZ NOUS </h2>
                                     <div class="widget-content">
-                                        <form method="post" action="contact.html">
-
+                                        <form method="post" action="{{ route('home.message') }}">
+                                            @csrf
                                             <!--Form Group-->
                                             <div class="form-group">
                                                 <div class="group-inner">
-                                                    <input type="text" name="username" placeholder="Name" required="">
+                                                    <input type="text" name="username" placeholder="Nom" required="">
                                                 </div>
                                                 <div class="group-inner">
-                                                    <input type="email" name="email" placeholder="Email" required="">
+                                                    <input type="email" name="email" placeholder="Email">
+                                                </div>
+
+                                                <div class="group-inner">
+                                                    <input type="text" name="sujet" placeholder="Sujet" required="">
+                                                </div>
+
+                                                <div class="group-inner">
+                                                    <input type="text" name="telephone" placeholder="Telephone"
+                                                        required="">
                                                 </div>
                                                 <div class="group-inner">
                                                     <button type="submit" class="theme-btn btn-style-one">
@@ -298,7 +307,10 @@
 
                         <!--column-->
                         <div class="column col-md-6 col-sm-6 col-xs-12">
-                            <div class="copyright">&copy; 2023 SAER Protect. All Rights Reserved.</div>
+                            <div class="copyright">&copy; 2023 SAER Protect. All Rights Reserved.
+
+                                Developed by <a href="https://www.niangaly.com">NIANGALY Abdoulaye</a>
+                            </div>
                         </div>
                         <!--column-->
                         <div class="column col-md-6 col-sm-6 col-xs-12">
@@ -330,6 +342,10 @@
     <script src="/js/owl.js"></script>
     <script src="/js/wow.js"></script>
     <script src="/js/script.js"></script>
+    <script src="/js/validate.js"></script>
+
+    <script src="http://maps.google.com/maps/api/js?key="></script>
+    <script src="/js/map-script.js"></script>
 </body>
 
 </html>
