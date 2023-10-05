@@ -198,9 +198,9 @@
                             <div class="icon-box">
                                 <span class="icon flaticon-shield"></span>
                             </div>
-                            <h3><a href="#">SERVICE D'ACCEUL ET DE SECURITE</a></h3>
-                            <div class="text">Nous mettons à disposition du personnel spécialisé pour vous aider à
-                                sécuriser vos locaux, vos biens et vos proches.</div>
+                            <h3><a href="#">AGENT DE PREVENTION ET DE SECURITE</a></h3>
+                            <div class="text">La SAER PROTECT, experte en protection des biens et des personnes, offre
+                                des solutions sur mesure répondant aux exigences de ses clients.</div>
                         </div>
                     </div>
 
@@ -222,7 +222,8 @@
                             <div class="icon-box">
                                 <span class="icon flaticon-walkie-talkie"></span>
                             </div>
-                            <h3><a href="#">SOLUTIONS DE PROTECTION CONTRE L'ICENDIE</a></h3>
+                            <h3><a href="#">FOURNITURE, INSTALLATION ET SUIVI DES ÉQUIPEMENTS
+                                    ANTI INCENDIE</a></h3>
                             <div class="text">Nous sommes experts dans tous les aspects des systèmes d'incendie et de
                                 sécurité, de la conception à la fourniture,
                                 l'installation et la maintenance.
@@ -252,26 +253,14 @@
                             <div class="icon-box">
                                 <span class="icon flaticon-padlock"></span>
                             </div>
-                            <h3><a href="#">CONSEILS EN MATIÈRE
-                                    DE GESTION DES RISQUES</a></h3>
+                            <h3><a href="#">AUDIT &amp; CONSEIL EN GESTION DE RISQUE</a></h3>
                             <div class="text">Nous répondons aux besoins complexes de nos clients en fournissant des
                                 informations et des analyses de haut niveau pour
                                 sécuriser les environnements, les personnes, les données et les actifs.</div>
                         </div>
                     </div>
 
-                    <!--Service Block Two-->
-                    <div class="service-block-two">
-                        <div class="inner-box">
-                            <div class="icon-box">
-                                <span class="icon flaticon-danger"></span>
-                            </div>
-                            <h3><a href="#">GUÉRITE DE GARDIEN</a></h3>
-                            <div class="text">La guérite de gardien de SAER Protect offre un poste de surveillance
-                                sécurisé, équipé de technologies avancées, pour
-                                garantir la protection et la sûreté de vos locaux, de vos biens et de vos proches.</div>
-                        </div>
-                    </div>
+
 
                 </div>
 
@@ -582,109 +571,109 @@
                 <!--Sec Title Three-->
                 <div class="sec-title-three">
                     <h2>POURQUOI NOUS CHOISIR</h2>
-                    <div class="text">The Love Boat promises something for everyone now to beat every of one
-                    </div>
+                    <d iv class="text">The Love Boat promises something for everyone now to beat every of one
                 </div>
-                <!--End Sec Title Three-->
-
-                <!--Service Block Two-->
-                <div class="service-block-two style-two">
-                    <div class="inner-box">
-                        <div class="icon-box">
-                            <span class="icon flaticon-hourglass"></span>
-                        </div>
-                        <h3><a href="#">10 ANS D'EXPÉRIENCE</a></h3>
-                        <div class="text">Fort de 10 ans d'expérience, nous sommes fiers d'être des leaders dans le
-                            domaine de la sécurité. Notre parcours riche
-                            en connaissances et en succès témoigne de notre engagement à fournir des solutions de
-                            qualité exceptionnelle à nos
-                            clients. Cette longévité dans l'industrie démontre notre capacité à évoluer avec les besoins
-                            changeants et à rester à la
-                            pointe de l'innovation pour garantir la meilleure protection possible. Faire appel à notre
-                            expertise signifie s'associer
-                            à un savoir-faire forgé par un quart de siècle d'engagement et de confiance.</div>
-                    </div>
-                </div>
-
-                <!--Service Block Two-->
-                <div class="service-block-two style-two">
-                    <div class="inner-box">
-                        <div class="icon-box">
-                            <span class="icon flaticon-light-bulb-on"></span>
-                        </div>
-                        <h3><a href="#">AGENTS AUTONOMES</a></h3>
-                        <div class="text">Leur capacité à prendre des initiatives et à maintenir une vigilance constante
-                            en fait une équipe de confiance pour
-                            assurer une protection sans compromis.</div>
-                    </div>
-                </div>
-
-                <!--Service Block Two-->
-                <div class="service-block-two style-two">
-                    <div class="inner-box">
-                        <div class="icon-box">
-                            <span class="icon flaticon-anchor-1"></span>
-                        </div>
-                        <h3><a href="#">LES DERNIÈRES TECHNIQUES DE SÉCURITÉ</a></h3>
-                        <div class="text">À la pointe de l'innovation, nous sommes fiers de proposer les toutes
-                            dernières techniques de sécurité pour garantir
-                            votre protection.</div>
-                    </div>
-                </div>
-
             </div>
-            <!--Counter Column-->
-            <div class="counter-column col-md-6 col-sm-12 col-xs-12"
-                style="background-image:url(https://www.wp1.themexlab.com/newwp/bristol/wp-content/uploads/2017/01/choose-us.jpg);">
+            <!--End Sec Title Three-->
 
-                <div class="fact-counter">
-                    <div class="clearfix">
-
-                        <!--Column-->
-                        <div class="inner-column light-bg counter-column wow fadeIn" data-wow-delay="0ms">
-                            <div class="inner">
-                                <div class="count-outer">
-                                    <span class="count-text" data-speed="4000" data-stop="3500">0</span>
-                                </div>
-                                <h4 class="counter-title">Agents</h4>
-                            </div>
-                        </div>
-
-                        <!--Column-->
-                        <div class="inner-column counter-column wow fadeIn" data-wow-delay="0ms">
-                            <div class="inner">
-                                <div class="count-outer">
-                                    <span class="count-text" data-speed="3000" data-stop="2340">0</span>
-                                </div>
-                                <h4 class="counter-title">Clients Satisfaits </h4>
-                            </div>
-                        </div>
-
-                        <!--Column-->
-                        <div class="inner-column counter-column wow fadeIn" data-wow-delay="0ms">
-                            <div class="inner">
-                                <div class="count-outer">
-                                    <span class="count-text" data-speed="2000" data-stop="48">0</span>
-                                </div>
-                                <h4 class="counter-title">Récompenses</h4>
-                            </div>
-                        </div>
-
-                        <!--Column-->
-                        <div class="inner-column light-bg counter-column wow fadeIn" data-wow-delay="0ms">
-                            <div class="inner">
-                                <div class="count-outer">
-                                    <span class="count-text" data-speed="2000" data-stop="35">0</span>
-                                </div>
-                                <h4 class="counter-title">BRANCHES</h4>
-                            </div>
-                        </div>
-
+            <!--Service Block Two-->
+            <div class="service-block-two style-two">
+                <div class="inner-box">
+                    <div class="icon-box">
+                        <span class="icon flaticon-hourglass"></span>
                     </div>
+                    <h3><a href="#">10 ANS D'EXPÉRIENCE</a></h3>
+                    <div class="text">Fort de 10 ans d'expérience, nous sommes fiers d'être des leaders dans le
+                        domaine de la sécurité. Notre parcours riche
+                        en connaissances et en succès témoigne de notre engagement à fournir des solutions de
+                        qualité exceptionnelle à nos
+                        clients. Cette longévité dans l'industrie démontre notre capacité à évoluer avec les besoins
+                        changeants et à rester à la
+                        pointe de l'innovation pour garantir la meilleure protection possible. Faire appel à notre
+                        expertise signifie s'associer
+                        à un savoir-faire forgé par un quart de siècle d'engagement et de confiance.</div>
                 </div>
-
             </div>
+
+            <!--Service Block Two-->
+            <div class="service-block-two style-two">
+                <div class="inner-box">
+                    <div class="icon-box">
+                        <span class="icon flaticon-light-bulb-on"></span>
+                    </div>
+                    <h3><a href="#">AGENTS AUTONOMES</a></h3>
+                    <div class="text">Leur capacité à prendre des initiatives et à maintenir une vigilance constante
+                        en fait une équipe de confiance pour
+                        assurer une protection sans compromis.</div>
+                </div>
+            </div>
+
+            <!--Service Block Two-->
+            <div class="service-block-two style-two">
+                <div class="inner-box">
+                    <div class="icon-box">
+                        <span class="icon flaticon-anchor-1"></span>
+                    </div>
+                    <h3><a href="#">LES DERNIÈRES TECHNIQUES DE SÉCURITÉ</a></h3>
+                    <div class="text">À la pointe de l'innovation, nous sommes fiers de proposer les toutes
+                        dernières techniques de sécurité pour garantir
+                        votre protection.</div>
+                </div>
+            </div>
+
         </div>
+        <!--Counter Column-->
+        <div class="counter-column col-md-6 col-sm-12 col-xs-12"
+            style="background-image:url(https://www.wp1.themexlab.com/newwp/bristol/wp-content/uploads/2017/01/choose-us.jpg);">
+
+            <div class="fact-counter">
+                <div class="clearfix">
+
+                    <!--Column-->
+                    <div class="inner-column light-bg counter-column wow fadeIn" data-wow-delay="0ms">
+                        <div class="inner">
+                            <div class="count-outer">
+                                <span class="count-text" data-speed="4000" data-stop="3500">0</span>
+                            </div>
+                            <h4 class="counter-title">Agents</h4>
+                        </div>
+                    </div>
+
+                    <!--Column-->
+                    <div class="inner-column counter-column wow fadeIn" data-wow-delay="0ms">
+                        <div class="inner">
+                            <div class="count-outer">
+                                <span class="count-text" data-speed="3000" data-stop="2340">0</span>
+                            </div>
+                            <h4 class="counter-title">Clients Satisfaits </h4>
+                        </div>
+                    </div>
+
+                    <!--Column-->
+                    <div class="inner-column counter-column wow fadeIn" data-wow-delay="0ms">
+                        <div class="inner">
+                            <div class="count-outer">
+                                <span class="count-text" data-speed="2000" data-stop="48">0</span>
+                            </div>
+                            <h4 class="counter-title">Récompenses</h4>
+                        </div>
+                    </div>
+
+                    <!--Column-->
+                    <div class="inner-column light-bg counter-column wow fadeIn" data-wow-delay="0ms">
+                        <div class="inner">
+                            <div class="count-outer">
+                                <span class="count-text" data-speed="2000" data-stop="35">0</span>
+                            </div>
+                            <h4 class="counter-title">BRANCHES</h4>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
     </div>
 </section>
 <!--Why Us Section-->
