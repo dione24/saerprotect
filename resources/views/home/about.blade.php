@@ -42,7 +42,7 @@
                                 <div class="inner">
                                     <div class="icon-box"><span class="icon flaticon-close"></span></div>
                                     <div class="count-outer">
-                                        <span class="count-text" data-speed="4000" data-stop="3500">0</span>
+                                        <span class="count-text" data-speed="1000" data-stop="1000">0</span>
                                     </div>
                                     <h4 class="counter-title">Agents</h4>
                                 </div>
