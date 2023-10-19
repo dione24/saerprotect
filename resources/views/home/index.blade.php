@@ -562,6 +562,7 @@
 </section>
 <!--End Guards Section-->
 
+{{--
 <!--Why Us Section-->
 <section class="why-us-section">
     <div class="auto-container">
@@ -742,6 +743,6 @@
             </ul>
         </div>
     </div>
-</section>
+</section> --}}
 
 @endsection
