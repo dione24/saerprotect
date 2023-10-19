@@ -96,17 +96,21 @@
 <section class="featured-section">
     <div class="auto-container">
         <div class="row clearfix">
-
             <!--Featured Post-->
             <div class="featured-post col-md-4 col-sm-6 col-xs-12">
                 <div class="inner-box">
                     <div class="number-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">01</div>
-                    <h3><a href="services-single.html">FAITES CONFIANCE À NOTRE EXPÉRIENCE</a></h3>
-                    <div class="text">AVEC PLUS DE 15 ANS D&#39;EXPÉRIENCE DANS LE DOMAINE DE LA
-                        SÉCURITÉ, NOUS SAVONS QUOI FAIRE POUR ASSURER LA SÉCURITÉ DES
-                        BIENS ET DES PERSONNES.</div>
-                    <a class="read-more" href="services-single.html">Read More <span
-                            class="icon flaticon-right-arrow"></span></a>
+                    <h3><a href="#">INTEGRITE ET RESPECT</a></h3>
+                    <div class="text">
+                        Nous opérons en toute intégrité et avec un profond respect. Notre conduite dans le domaine
+                        commercial ainsi que nos
+                        relations sont fondées sur la confiance, la sincérité, et la transparence. Nous tenons nos
+                        engagements et nous nous
+                        engageons constamment à faire ce qui est équitable. Nous accordons une grande importance à
+                        l'écoute et traitons nos
+                        collègues, nos clients, ainsi que toutes les personnes qui nous sont confiées, avec le plus
+                        grand respect.
+                    </div>
                 </div>
             </div>
             <!--End Featured Post-->
@@ -115,57 +119,19 @@
             <div class="featured-post col-md-4 col-sm-6 col-xs-12">
                 <div class="inner-box">
                     <div class="number-box wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">02</div>
-                    <h3><a href="#">Les valeurs de SAER PROTECT</a></h3>
-                    <div class="text">NOUS AGISSONS AVEC
-
-                        INTEGRITE ET RESPECT
-
-                        Nos activités commerciales et nos
-                        relations reposent sur la confiance,
-                        l&#39;honnêteté et l&#39;ouverture. Nous faisons ce
-                        que nous promettons et nous nous
-                        efforçons toujours de faire ce qui est juste,
-                        nous écoutons, nous traitons nos collègues,
-                        nos clients et ceux qui nous sont confiés
-                        avec le plus grand respect.
+                    <h3><a href="#">LA SURETE, LA SECURITE ET L’ EXCELLENCE DU SERVICE</a></h3>
+                    <div class="text">
+                        Nous avons une passion profonde pour la sûreté, la sécurité, et l'excellence du service. Nous
+                        mettons tout notre cœur
+                        dans la préservation de la sécurité au travail, en prenant des mesures rigoureuses pour protéger
+                        nos collègues et nos
+                        clients contre tout risque. En tant qu'experts en sécurité, nous utilisons notre expertise pour
+                        sauvegarder les biens de
+                        nos clients. Nous restons fidèles à nos engagements et nous nous investissons avec passion dans
+                        la fourniture de
+                        services à la clientèle de la plus haute qualité.
                     </div>
 
-                    <div class="text">NOUS SOMMES PASSIONNES
-                        PAR ...
-                        LA SURETE, LA SECURITE ET
-                        L’ EXCELLENCE DU SERVICE
-
-                        Nous sommes passionnés par le travail en
-                        toute sécurité et prenons le plus grand soin
-                        de protéger nos collègues et nos clients du
-                        danger. Nous sommes des experts en
-                        sécurité et utilisons ces connaissances pour
-                        protéger les actifs de nos clients. Nous
-                        tenons nos promesses et sommes
-                        passionnés par la prestation de hauts
-                        niveaux de service à la clientèle.
-                    </div>
-
-                    <div class="text">NOUS Y PARVENONS A
-                        TRAVERS ...
-                        L’INNOVATION ET LE
-                        TRAVAIL D&#39;EQUIPE
-
-                        Nous investissons dans la technologie et
-                        les meilleures pratiques pour améliorer en
-                        permanence les produits et services que
-                        nous proposons. Nous nous mettons au
-                        défi de trouver de nouveaux moyens
-                        d&#39;aider nos clients à atteindre leurs
-                        objectifs. Nous travaillons ensemble en
-                        équipe et nous valorisons la contribution
-                        de chacun afin de garantir les meilleurs
-                        résultats pour nos clients et notre
-                        entreprise.
-                    </div>
-
-                    <a class="read-more" href="services-single.html">#<span
-                            class="icon flaticon-right-arrow"></span></a>
                 </div>
             </div>
             <!--End Featured Post-->
@@ -174,11 +140,18 @@
             <div class="featured-post col-md-4 col-sm-6 col-xs-12">
                 <div class="inner-box">
                     <div class="number-box wow fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">03</div>
-                    <h3><a href="services-single.html">OUR VISION</a></h3>
-                    <div class="text">The Love Boat promises something for beat of just one drum a young loner on
-                        crusade to champion innocent.</div>
-                    <a class="read-more" href="services-single.html">Read More <span
-                            class="icon flaticon-right-arrow"></span></a>
+                    <h3><a href="#">L’INNOVATION ET LE
+                            TRAVAIL D&#39;EQUIPE</a></h3>
+                    <div class="text">Nous allouons des ressources à la technologie et à l'adoption des meilleures
+                        méthodes pour constamment améliorer les
+                        produits et les services que nous offrons. Nous nous engageons à trouver constamment de
+                        nouvelles approches pour
+                        soutenir nos clients dans la réalisation de leurs objectifs. Nous favorisons la collaboration
+                        d'équipe et reconnaissons
+                        la valeur de chaque contribution, dans le but d'assurer les meilleurs résultats tant pour nos
+                        clients que pour notre
+                        entreprise.</div>
+
                 </div>
             </div>
             <!--End Featured Post-->
