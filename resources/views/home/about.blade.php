@@ -21,11 +21,17 @@
             <div class="content-column col-md-6 col-sm-12 col-xs-12">
                 <div class="inner-box">
                     <h3>SAER Protect</h3>
-                    <div class="text">SAER Protect, filiale dediee a la sécurité de SAER Group, offre une large gamme de
-                        services de sécurité spécialisés et
-                        d'externalisation de la gestion de la sécurité, pour vous aider à sécuriser votre personnel, vos
-                        proches, vos locaux et
-                        vos actifs.</div>
+                    <div class="text">est une Sécurité est une société de sécurité spécialisée dans la
+                        gestion et la prévention des risques pour assurer la sécurité, la surveillance et le
+                        gardiennage des biens et des personnes. Nos agences sont implantées principalement
+                        à:
+                        - Bamako (le siège sociale);
+                        - Tombouctou;
+                        - Mopti;
+                        - Gao;
+                        - Ségou;
+                        - Sikasso.
+                        Nous intervenons dans presque toutes les régions administratives du Mali.</div>
 
                     <!--Fact Counter Two-->
                     <div class="fact-counter">
@@ -58,7 +64,7 @@
                                 <div class="inner">
                                     <div class="icon-box"><span class="icon flaticon-crosshair"></span></div>
                                     <div class="count-outer">
-                                        <span class="count-text" data-speed="2000" data-stop="35">0</span>
+                                        <span class="count-text" data-speed="2" data-stop="2">0</span>
                                     </div>
                                     <h4 class="counter-title">Branches</h4>
                                 </div>
@@ -95,9 +101,10 @@
             <div class="featured-post col-md-4 col-sm-6 col-xs-12">
                 <div class="inner-box">
                     <div class="number-box wow fadeInUp" data-wow-delay="0ms" data-wow-duration="1500ms">01</div>
-                    <h3><a href="services-single.html">WHO WE ARE</a></h3>
-                    <div class="text">The Love Boat promises something for beat of just one drum a young loner on
-                        crusade to champion innocent.</div>
+                    <h3><a href="services-single.html">FAITES CONFIANCE À NOTRE EXPÉRIENCE</a></h3>
+                    <div class="text">AVEC PLUS DE 15 ANS D&#39;EXPÉRIENCE DANS LE DOMAINE DE LA
+                        SÉCURITÉ, NOUS SAVONS QUOI FAIRE POUR ASSURER LA SÉCURITÉ DES
+                        BIENS ET DES PERSONNES.</div>
                     <a class="read-more" href="services-single.html">Read More <span
                             class="icon flaticon-right-arrow"></span></a>
                 </div>
@@ -108,10 +115,56 @@
             <div class="featured-post col-md-4 col-sm-6 col-xs-12">
                 <div class="inner-box">
                     <div class="number-box wow fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">02</div>
-                    <h3><a href="services-single.html">OUR MISSION</a></h3>
-                    <div class="text">The Love Boat promises something for beat of just one drum a young loner on
-                        crusade to champion innocent.</div>
-                    <a class="read-more" href="services-single.html">Read More <span
+                    <h3><a href="#">Les valeurs de SAER PROTECT</a></h3>
+                    <div class="text">NOUS AGISSONS AVEC
+
+                        INTEGRITE ET RESPECT
+
+                        Nos activités commerciales et nos
+                        relations reposent sur la confiance,
+                        l&#39;honnêteté et l&#39;ouverture. Nous faisons ce
+                        que nous promettons et nous nous
+                        efforçons toujours de faire ce qui est juste,
+                        nous écoutons, nous traitons nos collègues,
+                        nos clients et ceux qui nous sont confiés
+                        avec le plus grand respect.
+                    </div>
+
+                    <div class="text">NOUS SOMMES PASSIONNES
+                        PAR ...
+                        LA SURETE, LA SECURITE ET
+                        L’ EXCELLENCE DU SERVICE
+
+                        Nous sommes passionnés par le travail en
+                        toute sécurité et prenons le plus grand soin
+                        de protéger nos collègues et nos clients du
+                        danger. Nous sommes des experts en
+                        sécurité et utilisons ces connaissances pour
+                        protéger les actifs de nos clients. Nous
+                        tenons nos promesses et sommes
+                        passionnés par la prestation de hauts
+                        niveaux de service à la clientèle.
+                    </div>
+
+                    <div class="text">NOUS Y PARVENONS A
+                        TRAVERS ...
+                        L’INNOVATION ET LE
+                        TRAVAIL D&#39;EQUIPE
+
+                        Nous investissons dans la technologie et
+                        les meilleures pratiques pour améliorer en
+                        permanence les produits et services que
+                        nous proposons. Nous nous mettons au
+                        défi de trouver de nouveaux moyens
+                        d&#39;aider nos clients à atteindre leurs
+                        objectifs. Nous travaillons ensemble en
+                        équipe et nous valorisons la contribution
+                        de chacun afin de garantir les meilleurs
+                        résultats pour nos clients et notre
+                        entreprise.
+                    </div>
+
+                    <a class="read-more" href="services-single.html">#<span
                             class="icon flaticon-right-arrow"></span></a>
                 </div>
             </div>
@@ -238,6 +291,7 @@
 </section>
 <!--End Guards Section-->
 
+{{--
 <!--Testimonial Section-->
 <section class="testimonial-section">
     <div class="auto-container">
@@ -384,5 +438,5 @@
         </div>
     </div>
 </section>
-<!--sponsors style One-->
+<!--sponsors style One--> --}}
 @endsection
