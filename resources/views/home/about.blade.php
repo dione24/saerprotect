@@ -53,7 +53,7 @@
                                 <div class="inner">
                                     <div class="icon-box"><span class="icon flaticon-badge-with-ribbons"></span></div>
                                     <div class="count-outer">
-                                        <span class="count-text" data-speed="3000" data-stop="48">0</span>
+                                        <span class="count-text" data-speed="10" data-stop="10">0</span>
                                     </div>
                                     <h4 class="counter-title">Récompenses</h4>
                                 </div>
